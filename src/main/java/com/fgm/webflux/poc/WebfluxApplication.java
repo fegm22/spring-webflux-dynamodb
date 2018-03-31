@@ -1,4 +1,4 @@
-package com.ryanair.webflux.poc;
+package com.fgm.webflux.poc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

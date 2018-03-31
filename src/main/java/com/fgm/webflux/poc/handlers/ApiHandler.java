@@ -1,7 +1,7 @@
-package com.ryanair.webflux.poc.handlers;
+package com.fgm.webflux.poc.handlers;
 
-import com.ryanair.webflux.poc.model.Tweet;
-import com.ryanair.webflux.poc.services.AWSDynamoService;
+import com.fgm.webflux.poc.model.Tweet;
+import com.fgm.webflux.poc.services.AWSDynamoService;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.web.reactive.function.server.ServerRequest;
 import org.springframework.web.reactive.function.server.ServerResponse;

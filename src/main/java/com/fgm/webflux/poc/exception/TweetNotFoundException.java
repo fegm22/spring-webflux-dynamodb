@@ -1,4 +1,4 @@
-package com.ryanair.webflux.poc.exception;
+package com.fgm.webflux.poc.exception;
 
 public class TweetNotFoundException extends RuntimeException {
 

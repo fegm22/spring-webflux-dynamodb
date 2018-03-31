@@ -1,7 +1,7 @@
-package com.ryanair.webflux.poc;
+package com.fgm.webflux.poc;
 
-import com.ryanair.webflux.poc.model.Tweet;
-import com.ryanair.webflux.poc.services.AWSDynamoService;
+import com.fgm.webflux.poc.model.Tweet;
+import com.fgm.webflux.poc.services.AWSDynamoService;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;

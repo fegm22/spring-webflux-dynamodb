@@ -1,7 +1,7 @@
-package com.ryanair.webflux.poc.routers;
+package com.fgm.webflux.poc.routers;
 
-import com.ryanair.webflux.poc.handlers.ApiHandler;
-import com.ryanair.webflux.poc.handlers.ErrorHandler;
+import com.fgm.webflux.poc.handlers.ApiHandler;
+import com.fgm.webflux.poc.handlers.ErrorHandler;
 import org.springframework.web.reactive.function.server.RouterFunction;
 
 public class MainRouter {

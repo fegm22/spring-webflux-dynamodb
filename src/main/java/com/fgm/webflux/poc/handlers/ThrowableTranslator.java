@@ -1,7 +1,7 @@
-package com.ryanair.webflux.poc.handlers;
+package com.fgm.webflux.poc.handlers;
 
-import com.ryanair.webflux.poc.exception.PathNotFoundException;
-import com.ryanair.webflux.poc.exception.TweetNotFoundException;
+import com.fgm.webflux.poc.exception.PathNotFoundException;
+import com.fgm.webflux.poc.exception.TweetNotFoundException;
 import org.springframework.http.HttpStatus;
 import reactor.core.publisher.Mono;
 

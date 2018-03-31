@@ -1,4 +1,4 @@
-package com.ryanair.webflux.poc.routers;
+package com.fgm.webflux.poc.routers;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.web.reactive.function.server.RouterFunction;

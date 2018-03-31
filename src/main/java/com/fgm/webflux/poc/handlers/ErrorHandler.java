@@ -1,7 +1,7 @@
-package com.ryanair.webflux.poc.handlers;
+package com.fgm.webflux.poc.handlers;
 
-import com.ryanair.webflux.poc.exception.PathNotFoundException;
-import com.ryanair.webflux.poc.model.ErrorResponse;
+import com.fgm.webflux.poc.exception.PathNotFoundException;
+import com.fgm.webflux.poc.model.ErrorResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.reactive.function.server.ServerRequest;

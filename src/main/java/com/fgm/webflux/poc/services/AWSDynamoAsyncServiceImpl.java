@@ -1,6 +1,6 @@
-package com.ryanair.webflux.poc.services;
+package com.fgm.webflux.poc.services;
 
-import com.ryanair.webflux.poc.model.Tweet;
+import com.fgm.webflux.poc.model.Tweet;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import software.amazon.awssdk.services.dynamodb.DynamoDBAsyncClient;

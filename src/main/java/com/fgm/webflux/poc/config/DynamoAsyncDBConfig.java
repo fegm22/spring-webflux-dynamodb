@@ -1,10 +1,10 @@
-package com.ryanair.webflux.poc.config;
+package com.fgm.webflux.poc.config;
 
-import com.ryanair.webflux.poc.handlers.ApiHandler;
-import com.ryanair.webflux.poc.handlers.ErrorHandler;
-import com.ryanair.webflux.poc.routers.MainRouter;
-import com.ryanair.webflux.poc.services.AWSDynamoAsyncServiceImpl;
-import com.ryanair.webflux.poc.services.AWSDynamoService;
+import com.fgm.webflux.poc.handlers.ApiHandler;
+import com.fgm.webflux.poc.handlers.ErrorHandler;
+import com.fgm.webflux.poc.routers.MainRouter;
+import com.fgm.webflux.poc.services.AWSDynamoAsyncServiceImpl;
+import com.fgm.webflux.poc.services.AWSDynamoService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
